@@ -1,0 +1,13 @@
+# Compiled Python bytecode
+*.py[cod]
+
+# Misc Jupyter Files
+demo/.cache
+demo/.ipynb_checkpoints
+demo/.ipython
+demo/.jupyter
+demo/.local
+demo/.bash_history
+
+# Misc Mito files
+demo/.mito
