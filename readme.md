@@ -1,5 +1,5 @@
 # mito_quickstart
-Use this configuration to quickly load a [Mito](https://www.trymito.io) spreadsheet in Jupyter.
+Use this configuration to quickly spin up an instance of [Mito](https://www.trymito.io) and Jupyter on a Docker container.
 
 ![First Mito Sheet](FirstMitoSheet.png)
 
